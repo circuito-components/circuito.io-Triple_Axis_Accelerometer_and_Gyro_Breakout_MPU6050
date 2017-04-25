@@ -20,6 +20,7 @@ void setup() {
     while (!Serial) ; // wait for serial port to connect. Needed for native USB
     Serial.println("start");
     
+    //MPU6050 - setup
     Wire.begin();
     mpu6050.initialize();
 }
