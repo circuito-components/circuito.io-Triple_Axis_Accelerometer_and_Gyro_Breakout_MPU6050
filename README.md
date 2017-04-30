@@ -12,7 +12,7 @@ Find Help & Help Others build cool electronics projects!
 
 # Using Contributed Test Code:
 If you are looking for code for you component:
-1. Find the repository of the desired component.
+1. In the repository of the component.
 2. Please read the license before you proceed to use.
 3. Clone or download the repository.
 4. Navigate to the relevant board folder, e.g. Arduino.
