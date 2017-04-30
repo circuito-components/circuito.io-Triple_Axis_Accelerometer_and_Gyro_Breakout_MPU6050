@@ -1,5 +1,5 @@
 # About circuito.io
-circuito.io is a service for makers - It automatically generates wiring instructions and code for different combinations of hardware used in an electronics project.
+[circuito.io](https://www.circuito.io) is a service for makers - It automatically generates wiring instructions and code for different combinations of hardware used in an electronics project.
 
 The user selects the components they want to use in their project, and gets a complete BoM including every auxiliary component they may need, a step by step guide on how to connect everything, and a custom code with the basic driver for each component.
 
