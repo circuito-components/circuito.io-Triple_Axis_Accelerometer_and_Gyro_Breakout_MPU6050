@@ -20,16 +20,19 @@ If the component you want to use is missing the code for testing, the following 
 2. Clone or download the repository. 
 4. Now, navigate to the relevant board folder `controller/Firmware`.e.g. Arduino.
 5. If a **code** and/or **libraries** were contributed, you will see them in this folder. 
-![Copy paste](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/copy_paste.gif)
-
 
 ##### Case #1: Use `Firmware.ino` for testing single component:
 1. Open the Firmware.ino with your Arduino IDE.
 2. Upload to board.
 3. Make sure the pin number definitions are correct.
+
+
 ##### Case #2 : Add code snippet to `Firmware.ino` downloaded from circuito.io app:
 1. Copy the library files from the repository into your Firmware folder, downloaded from circuito.io app.
+![Download](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/download.gif)
+
 2. Open the `Firmware.ino` you've downloaded from the repository and copy **section by section** to its corresponding section in the Firmware provided in the zip by the circuito.io app
+![Copy paste](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/copy_paste.gif)
 
 Enjoy! :)
 
