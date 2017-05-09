@@ -29,9 +29,11 @@ If the component you want to use is missing the code for testing, the following 
 
 ##### Case #2 : Add code snippet to `Firmware.ino` downloaded from circuito.io app:
 1. Copy the library files from the repository into your Firmware folder, downloaded from circuito.io app.
+
 ![Download](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/download.gif)
 
-2. Open the `Firmware.ino` you've downloaded from the repository and copy **section by section** to its corresponding section in the Firmware provided in the zip by the circuito.io app
+2. Open the `Firmware.ino` you've downloaded from the repository and copy **section by section** to its corresponding section in the Firmware provided in the zip by the circuito.io app.
+
 ![Copy paste](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/copy_paste.gif)
 
 Enjoy! :)
