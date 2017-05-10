@@ -34,7 +34,7 @@ If the component you want to use is missing the code for testing, the following 
 
 2. Open the `Firmware.ino` you've downloaded from the repository and copy **section by section** to its corresponding section in the Firmware provided in the zip by the circuito.io app.
 
-![Copy paste](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/copy_paste.gif)
+![Copy paste](https://s3-us-west-2.amazonaws.com/ux-ui/gifs/copy_paste_test.gif)
 
 Enjoy! :)
 
