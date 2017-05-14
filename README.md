@@ -42,9 +42,9 @@ Enjoy! :)
 The code to be contributed will serve other users looking for code, and also our circuito.io engine to generate the code automatically in the future.
 
 ##### In order to contribute your code and libraries:
-1. In the chosen component repository, go to the relevant controller library. Current only Arduino is available.
+1. In the chosen component repository, go to the relevant controller library. Currently only Arduino is available.
 2. Please read the license in the library before you proceed with contribution.
-3. Contribute library files: place all the *.h and *.cpp file inside if such exist.
+3. Contribute library files: place all the *.h and *.cpp files inside if such exist.
 4. Contribute snippet test code: 
     - Each component has an empty Firmware.ino template. It contains a main structure of an Arduino code and pin definitions of the component. Please do not change the declared PIN name. you can change the value if necessary. You can change the assigned pin number if necessary.  
     - The Firmware.ino contains several sections to be filled:
